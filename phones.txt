@@ -2,5 +2,6 @@
 2)iphone 13
 3)Android 10
 4)Android 11
-
+5)Xiomi p20
+6)Xiomi p40
 
